@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="notes-webapp:war">
+    <output-path>$PROJECT_DIR$/notes-webapp/target</output-path>
+    <root id="archive" name="notes-webapp.war">
+      <element id="artifact" artifact-name="notes-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
